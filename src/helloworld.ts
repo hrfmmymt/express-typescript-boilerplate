@@ -1,3 +1,3 @@
 export function helloworld(str: string) {
-  return str + str
+  return str + str;
 }
